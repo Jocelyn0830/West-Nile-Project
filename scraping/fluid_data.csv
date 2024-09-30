@@ -1,0 +1,678 @@
+﻿GenBank Accession,Host,Location (State),Isolate,Year,Geographic region,Flyway,Data subset,,,
+KR348976,mosquito,CA,INYO_2,2011,West,Pacific,,B,C,
+KR348977,mosquito,CA,INYO_25,2011,West,Pacific,,B,C,
+KR349017,mosquito,CA,SHAS_125,2007,West,Pacific,A,B,,
+KR348978,mosquito,CA,KERN_136,2008,West,Pacific,A,B,C,
+KR349025,mosquito,CA,SHAS_145,2007,West,Pacific,A,B,,
+KR348979,mosquito,CA,KERN_175,2004,West,Pacific,,B,,
+KR348938,mosquito,CA,COAV_179,2011,West,Pacific,,,,
+KR348997,mosquito,CA,SAYO_212,2005,West,Pacific,A,,C,
+KR349018,mosquito,CA,SHAS_227,2007,West,Pacific,,,,
+KR349019,mosquito,CA,SHAS_235,2009,West,Pacific,,,C,
+KR348915,mosquito,CA,CNTR_251,2011,West,Pacific,,,,
+KR348943,mosquito,CA,COAV_261,2004,West,Pacific,A,,,
+KR348950,mosquito,CA,GRLA_277,2008,West,Pacific,A,,C,
+KR349026,mosquito,CA,SUYA_294,2011,West,Pacific,A,B,,
+KR349020,mosquito,CA,SHAS_318,2011,West,Pacific,,,C,
+KR348945,mosquito,CA,COAV_339,2004,West,Pacific,A,B,,
+KR348985,mosquito,CA,KERN_344,2007,West,Pacific,A,B,,
+KR348951,mosquito,CA,GRLA_346,2004,West,Pacific,,,C,
+KR348987,mosquito,CA,KERN_360,2008,West,Pacific,,,,
+KR348916,mosquito,CA,CNTR_361,2008,West,Pacific,,,,
+KR348917,mosquito,CA,CNTR_371,2008,West,Pacific,A,,,
+KR348988,mosquito,CA,KERN_377,2008,West,Pacific,A,,C,
+KR348999,mosquito,CA,SAYO_400,2005,West,Pacific,A,,,
+KR348918,mosquito,CA,CNTR_401,2011,West,Pacific,,,C,
+KR348989,mosquito,CA,KERN_446,2007,West,Pacific,A,B,,
+KR348990,mosquito,CA,KERN_464,2007,West,Pacific,A,,,
+KR348991,mosquito,CA,KERN_477,2007,West,Pacific,,,C,
+KR348919,mosquito,CA,CNTR_493,2009,West,Pacific,A,B,C,
+KR348920,mosquito,CA,CNTR_542,2009,West,Pacific,A,,C,
+KR348921,mosquito,CA,CNTR_543,2009,West,Pacific,,B,C,
+KR349010,mosquito,CA,SAYO_566,2005,West,Pacific,A,B,,
+KR349011,mosquito,CA,SAYO_571,2005,West,Pacific,,,C,
+KR349012,mosquito,CA,SAYO_572,2005,West,Pacific,,B,,
+KR348922,mosquito,CA,CNTR_588,2009,West,Pacific,,B,,
+KR348992,mosquito,CA,KERN_666,2006,West,Pacific,,B,,
+KR348968,mosquito,CA,GRLA_746,2008,West,Pacific,A,B,,
+KR348969,mosquito,CA,GRLA_752,2011,West,Pacific,,,,
+KR348970,mosquito,CA,GRLA_754,2008,West,Pacific,,,C,
+KR349015,mosquito,CA,SAYO_798,2004,West,Pacific,,B,C,
+KR348971,mosquito,CA,GRLA_836,2011,West,Pacific,A,B,C,
+KR348972,mosquito,CA,GRLA_855,2011,West,Pacific,A,,C,
+KR348973,mosquito,CA,GRLA_857,2011,West,Pacific,,,,
+KR348948,mosquito,CA,COAV_939,2004,West,Pacific,,B,,
+KR348949,mosquito,CA,COAV_992,2004,West,Pacific,,,C,
+KR349024,mosquito,CA,COAV_1022,2003,West,Pacific,,,,
+KR348923,mosquito,CA,COAV_1023,2003,West,Pacific,,,C,
+KR348924,mosquito,CA,COAV_1026,2003,West,Pacific,,B,,
+KR348925,mosquito,CA,COAV_1028,2003,West,Pacific,A,B,,
+KR348994,mosquito,CA,SAYO_1035,2005,West,Pacific,,,C,
+KR348926,mosquito,CA,COAV_1091,2008,West,Pacific,,B,,
+KR348927,mosquito,CA,COAV_1138,2003,West,Pacific,A,B,C,
+KR348995,mosquito,CA,SAYO_1155,2005,West,Pacific,,B,,
+KR348928,mosquito,CA,COAV_1260,2007,West,Pacific,A,,C,
+KR348929,mosquito,CA,COAV_1333,2008,West,Pacific,,B,C,
+KR348930,mosquito,CA,COAV_1511,2009,West,Pacific,A,B,,
+KR348931,mosquito,CA,COAV_1515,2009,West,Pacific,,B,,
+KR348932,mosquito,CA,COAV_1570,2007,West,Pacific,,B,,
+KR348933,mosquito,CA,COAV_1572,2008,West,Pacific,A,,,
+KR348934,mosquito,CA,COAV_1573,2007,West,Pacific,A,B,,
+KR348935,mosquito,CA,COAV_1656,2005,West,Pacific,A,B,,
+KR348936,mosquito,CA,COAV_1722,2008,West,Pacific,A,,,
+KR348937,mosquito,CA,COAV_1788,2010,West,Pacific,,,,
+KR348939,mosquito,CA,COAV_1794,2005,West,Pacific,A,B,,
+KR348940,mosquito,CA,COAV_1871,2010,West,Pacific,,,,
+KR348980,mosquito,CA,KERN_2000,2011,West,Pacific,,,,
+KR348982,mosquito,CA,KERN_2019,2011,West,Pacific,A,,,
+KR348984,mosquito,CA,KERN_2024,2011,West,Pacific,,,,
+KR348941,mosquito,CA,COAV_2060,2011,West,Pacific,A,B,,
+KR348942,mosquito,CA,COAV_2062,2011,West,Pacific,,,C,
+KR348998,mosquito,CA,SAYO_2604,2008,West,Pacific,,B,,
+KR348944,mosquito,CA,COAV_2667,2010,West,Pacific,,,,
+KR349000,mosquito,CA,SAYO_4541,2008,West,Pacific,,,,
+KR349002,mosquito,CA,SAYO_4723,2011,West,Pacific,A,,C,
+KR349004,mosquito,CA,SAYO_4734,2011,West,Pacific,A,B,C,
+KR349021,mosquito,CA,SAYO_4738,2011,West,Pacific,,,,
+KR349006,mosquito,CA,SAYO_4740,2011,West,Pacific,,,,
+KR349007,mosquito,CA,SAYO_5066,2005,West,Pacific,A,B,,
+KR349008,mosquito,CA,SAYO_5073,2005,West,Pacific,,,,
+KR349009,mosquito,CA,SAYO_5076,2005,West,Pacific,,,C,
+KR348946,mosquito,CA,GRLA_5546,2008,West,Pacific,,B,C,
+KR348947,mosquito,CA,GRLA_5894,2007,West,Pacific,,,,
+KR348952,mosquito,CA,GRLA_5980,2007,West,Pacific,A,B,,
+KR348953,mosquito,CA,GRLA_6006,2008,West,Pacific,A,B,C,
+KR348954,mosquito,CA,GRLA_6133,2010,West,Pacific,,,,
+KR348955,mosquito,CA,GRLA_6143,2007,West,Pacific,A,B,,
+KR348956,mosquito,CA,GRLA_6170,2010,West,Pacific,,,C,
+KR348957,mosquito,CA,GRLA_6178,2010,West,Pacific,,B,,
+KR348958,mosquito,CA,GRLA_6246,2011,West,Pacific,A,B,C,
+KR348959,mosquito,CA,GRLA_6247,2011,West,Pacific,,,C,
+KR348960,mosquito,CA,GRLA_6249,2011,West,Pacific,,,,
+KR348961,mosquito,CA,GRLA_6250,2011,West,Pacific,,B,,
+KR349022,mosquito,CA,GRLA_6251,2011,West,Pacific,A,B,,
+KR348962,mosquito,CA,GRLA_6254,2011,West,Pacific,,B,,
+KR348963,mosquito,CA,GRLA_6257,2011,West,Pacific,A,,,
+KR348964,mosquito,CA,GRLA_6472,2011,West,Pacific,,B,,
+KR348965,mosquito,CA,GRLA_6476,2011,West,Pacific,,,C,
+KR348966,mosquito,CA,GRLA_6483,2011,West,Pacific,,B,C,
+KR348967,mosquito,CA,GRLA_6519,2011,West,Pacific,A,B,,
+KR349013,mosquito,CA,SAYO_6588,2007,West,Pacific,,B,C,
+KR349014,mosquito,CA,SAYO_6803,2008,West,Pacific,,B,C,
+AY712945,Mourning Dove,TX,Bird 1153,2003,South,Central,,B,,
+AY712946,Great-tailed Grackle,TX,Bird 1171,2003,South,Central,,,,
+AY712947,Blue Jay  ,TX,Bird 1461,2003,South,Central,,,C,
+AY712948,mosquito,TX,Mosquito v4369,2003,South,Central,,,C,
+DQ080061,Northern Cardinal  ,LA,TWN496,2004,South,Mississippi,,B,,
+DQ080072,Catbird,FL,FL232,2001,South,Atlantic,A,,,
+DQ164186,American Crow  ,NY,NY 2002 Queens,2002,NorthEast,Atlantic,,B,C,
+DQ164187,American Crow  ,NY,NY 2002 Broome,2002,NorthEast,Atlantic,A,B,C,
+DQ164188,American Crow  ,NY,NY 2003 Westchester,2003,NorthEast,Atlantic,A,,C,
+DQ164189,American Crow  ,NY,NY 2003 Albany,2003,NorthEast,Atlantic,,B,C,
+DQ164190,American Crow  ,NY,NY 2003 Suffolk,2003,NorthEast,Atlantic,A,B,,
+DQ164191,American Crow  ,NY,NY 2003 Chautauqua,2003,NorthEast,Atlantic,A,B,C,
+DQ164192,American Crow  ,NY,NY 2003 Rockland,2003,NorthEast,Atlantic,,,,
+DQ164193,American Crow  ,NY,NY 2002 Clinton,2002,NorthEast,Atlantic,A,B,C,
+DQ164194,mosquito,NY,NY 2001 Suffolk,2001,NorthEast,Atlantic,A,,,
+DQ164195,mosquito,NY,NY 2002 Nassau,2002,NorthEast,Atlantic,,,,
+DQ164203,Magpie,CO,CO 2003 2,2003,West,Central,A,,,
+DQ164204,Red-headed Tanager  ,CO,CO 2003 1,2003,West,Central,,,C,
+HM488115,mosquito,CT,BIDV4103,2005,NorthEast,Atlantic,A,,C,
+HM488116,mosquito,CT,BIDV4104,2005,NorthEast,Atlantic,,,,
+HM488117,mosquito,CT,BIDV4105,2005,NorthEast,Atlantic,A,B,,
+HM488118,mosquito,CT,BIDV4107,2005,NorthEast,Atlantic,,,C,
+HM488119,mosquito,CT,BIDV4108,2005,NorthEast,Atlantic,A,,,
+HM488120,mosquito,CT,BIDV4109,2005,NorthEast,Atlantic,A,B,C,
+HM488121,mosquito,CT,BIDV4110,2005,NorthEast,Atlantic,,B,C,
+HM488125,American Crow  ,CT,BIDV4186,1999,NorthEast,Atlantic,,,C,
+HM488126,American Crow  ,CT,BIDV4187,1999,NorthEast,Atlantic,A,B,,
+HM488127,American Crow  ,CT,BIDV4188,1999,NorthEast,Atlantic,A,,C,
+HM488128,American Crow  ,CT,BIDV4189,1999,NorthEast,Atlantic,A,B,,
+HM488129,mosquito,CT,BIDV4191,2000,NorthEast,Atlantic,A,,C,
+HM488130,mosquito,CT,BIDV4192,2000,NorthEast,Atlantic,,B,,
+HM488131,mosquito,CT,BIDV4193,2000,NorthEast,Atlantic,,,,
+HM488132,mosquito,CT,BIDV4194,2000,NorthEast,Atlantic,,,,
+HM488133,mosquito,CT,BIDV4195,2001,NorthEast,Atlantic,,B,,
+HM488135,mosquito,CT,BIDV4199,2001,NorthEast,Atlantic,,B,,
+HM488136,mosquito,CT,BIDV4200,2001,NorthEast,Atlantic,,,,
+HM488137,mosquito,CT,BIDV4202,2002,NorthEast,Atlantic,,B,,
+HM488139,mosquito,CT,BIDV4208,2003,NorthEast,Atlantic,A,,C,
+HM488140,mosquito,CT,BIDV4210,2003,NorthEast,Atlantic,A,,,
+HM488141,mosquito,CT,BIDV4212,2003,NorthEast,Atlantic,,,C,
+HM488142,mosquito,CT,BIDV4214,2004,NorthEast,Atlantic,A,B,C,
+HM488143,mosquito,CT,BIDV4215,2004,NorthEast,Atlantic,,,,
+HM488144,mosquito,CT,BIDV4216,2004,NorthEast,Atlantic,,,C,
+HM488146,mosquito,CT,BIDV4218,2004,NorthEast,Atlantic,,B,,
+HM488147,mosquito,CT,BIDV4219,2004,NorthEast,Atlantic,A,,,
+HM488148,mosquito,CT,BIDV4220,2004,NorthEast,Atlantic,,,,
+HM488149,mosquito,CT,BIDV4223,2005,NorthEast,Atlantic,,,,
+HM488152,mosquito,CT,BIDV4226,2005,NorthEast,Atlantic,A,,C,
+HM488154,mosquito,CT,BIDV4228,2005,NorthEast,Atlantic,,,C,
+HM488155,mosquito,CT,BIDV4229,2006,NorthEast,Atlantic,A,,,
+HM488156,mosquito,CT,BIDV4230,2006,NorthEast,Atlantic,,,C,
+HM488157,mosquito,CT,BIDV4231,2006,NorthEast,Atlantic,,,,
+HM488158,mosquito,CT,BIDV4232,2006,NorthEast,Atlantic,,B,,
+HM488159,mosquito,CT,BIDV4233,2006,NorthEast,Atlantic,,,,
+HM488160,mosquito,CT,BIDV4355,2006,NorthEast,Atlantic,,,,
+HM488161,mosquito,CT,BIDV4356,2007,NorthEast,Atlantic,A,,,
+HM488162,mosquito,CT,BIDV4357,2007,NorthEast,Atlantic,,,,
+HM488163,mosquito,CT,BIDV4359,2007,NorthEast,Atlantic,,B,,
+HM488164,mosquito,CT,BIDV4360,2007,NorthEast,Atlantic,A,B,C,
+HM488165,mosquito,CT,BIDV4361,2007,NorthEast,Atlantic,,,C,
+HM488166,mosquito,CT,BIDV4362,2008,NorthEast,Atlantic,A,B,,
+HM488167,mosquito,CT,BIDV4363,2008,NorthEast,Atlantic,,,,
+HM488169,mosquito,CT,BIDV4365,2008,NorthEast,Atlantic,A,B,,
+HM488170,mosquito,CT,BIDV4366,2008,NorthEast,Atlantic,A,,,
+HM488171,mosquito,CT,BIDV4560,2003,NorthEast,Atlantic,A,,C,
+HM488172,mosquito,CT,BIDV4561,2003,NorthEast,Atlantic,A,B,C,
+HM488173,mosquito,CT,BIDV4562,2003,NorthEast,Atlantic,A,B,C,
+HM488174,mosquito,CT,BIDV4563,2003,NorthEast,Atlantic,,B,C,
+HM488175,mosquito,CT,BIDV4569,2003,NorthEast,Atlantic,A,B,C,
+HM488176,mosquito,CT,BIDV4575,2003,NorthEast,Atlantic,,B,,
+HM488177,American Crow  ,IL,BIDV4336,2002,MidWest,Mississippi,,,,
+HM488178,American Crow  ,IL,BIDV4337,2002,MidWest,Mississippi,,B,,
+HM488179,American Crow  ,IL,BIDV4338,2002,MidWest,Mississippi,,,,
+HM488180,American Crow  ,IL,BIDV4339,2002,MidWest,Mississippi,,,C,
+HM488181,American Crow  ,IL,BIDV4340,2002,MidWest,Mississippi,,B,C,
+HM488182,American Crow  ,IL,BIDV4341,2002,MidWest,Mississippi,,,C,
+HM488183,Blue Jay  ,IL,BIDV4345,2002,MidWest,Mississippi,,,C,
+HM488184,Blue Jay  ,IL,BIDV4346,2002,MidWest,Mississippi,,B,C,
+HM488185,Blue Jay  ,IL,BIDV4347,2003,MidWest,Mississippi,,B,C,
+HM488186,American Crow  ,IL,BIDV4350,2003,MidWest,Mississippi,,,,
+HM488187,American Crow  ,IL,BIDV4351,2003,MidWest,Mississippi,A,B,C,
+HM488188,American Crow  ,IL,BIDV4353,2004,MidWest,Mississippi,,,,
+HM488189,Blue Jay  ,IL,BIDV4367,2004,MidWest,Mississippi,,,,
+HM488190,American Crow  ,IL,BIDV4368,2004,MidWest,Mississippi,A,B,,
+HM488191,American Crow  ,IL,BIDV4369,2004,MidWest,Mississippi,,B,,
+HM488192,American Crow  ,IL,BIDV4371,2005,MidWest,Mississippi,A,B,,
+HM488193,American Crow  ,IL,BIDV4373,2005,MidWest,Mississippi,A,,,
+HM488194,American Crow  ,IL,BIDV4374,2005,MidWest,Mississippi,,B,C,
+HM488195,Blue Jay  ,IL,BIDV4375,2005,MidWest,Mississippi,,B,,
+HM488196,American Crow  ,IL,BIDV4376,2005,MidWest,Mississippi,A,,,
+HM488197,American Crow  ,IL,BIDV4377,2005,MidWest,Mississippi,,B,,
+HM488198,mosquito,IL,BIDV4378,2005,MidWest,Mississippi,A,,C,
+HM488199,American Crow  ,NY,BIDV4090,2007,NorthEast,Atlantic,A,B,,
+HM488200,American Crow  ,NY,BIDV4092,2007,NorthEast,Atlantic,,,C,
+HM488201,American Crow  ,NY,BIDV4093,2007,NorthEast,Atlantic,,,C,
+HM488202,Blue Jay  ,NY,BIDV4094,2007,NorthEast,Atlantic,,,C,
+HM488203,American Crow  ,NY,BIDV4096,2008,NorthEast,Atlantic,A,B,,
+HM488204,American Crow  ,NY,BIDV4098,2008,NorthEast,Atlantic,A,B,C,
+HM488205,American Crow  ,NY,BIDV4099,2008,NorthEast,Atlantic,A,B,,
+HM488206,American Crow  ,NY,BIDV4100,2008,NorthEast,Atlantic,,,,
+HM488207,Blue Jay  ,NY,BIDV4101,2008,NorthEast,Atlantic,,B,,
+HM488208,mosquito,CT,BIDV4204,2002,NorthEast,Atlantic,,,C,
+HM488209,mosquito,CT,BIDV4564,2003,NorthEast,Atlantic,A,B,C,
+HM488210,mosquito,CT,BIDV4565,2003,NorthEast,Atlantic,A,,C,
+HM488211,mosquito,CT,BIDV4566,2003,NorthEast,Atlantic,A,,,
+HM488212,mosquito,CT,BIDV4567,2003,NorthEast,Atlantic,A,,C,
+HM488213,mosquito,CT,BIDV4571,2003,NorthEast,Atlantic,,,C,
+HM488214,mosquito,CT,BIDV4572,2003,NorthEast,Atlantic,,,,
+HM488215,mosquito,CT,BIDV4573,2003,NorthEast,Atlantic,,,,
+HM488216,mosquito,CT,BIDV4574,2003,NorthEast,Atlantic,A,B,,
+HM488217,mosquito,CT,BIDV4581,2003,NorthEast,Atlantic,A,B,,
+HM488218,mosquito,CT,BIDV4583,2003,NorthEast,Atlantic,A,B,,
+HM488219,mosquito,CT,BIDV4585,2003,NorthEast,Atlantic,,B,,
+HM488220,mosquito,CT,BIDV4586,2003,NorthEast,Atlantic,,B,,
+HM488221,mosquito,CT,BIDV4593,2003,NorthEast,Atlantic,,B,C,
+HM488222,mosquito,CT,BIDV4599,2003,NorthEast,Atlantic,,,C,
+HM488223,mosquito,CT,BIDV4603,2003,NorthEast,Atlantic,,,C,
+HM488224,mosquito,CT,BIDV4604,2003,NorthEast,Atlantic,A,,,
+HM488226,mosquito,CT,BIDV4607,2003,NorthEast,Atlantic,A,B,,
+HM488227,mosquito,CT,BIDV4608,2003,NorthEast,Atlantic,A,,,
+HM488228,mosquito,CT,BIDV4609,2003,NorthEast,Atlantic,A,,,
+HM488229,mosquito,CT,BIDV4610,2003,NorthEast,Atlantic,,,,
+HM488230,mosquito,CT,BIDV4612,2003,NorthEast,Atlantic,A,,,
+HM488232,mosquito,CT,BIDV4614,2003,NorthEast,Atlantic,,,C,
+HM488233,mosquito,CT,BIDV4616,2003,NorthEast,Atlantic,,,,
+HM488234,mosquito,CT,BIDV4617,2003,NorthEast,Atlantic,,,,
+HM488235,mosquito,CT,BIDV4619,2003,NorthEast,Atlantic,,,,
+HM488236,mosquito,CT,BIDV4700,2003,NorthEast,Atlantic,A,,C,
+HM488237,American Crow  ,NY,BIDV4622,2008,NorthEast,Atlantic,A,,,
+HM488238,American Crow  ,NY,BIDV4623,2008,NorthEast,Atlantic,,B,,
+HM488239,American Crow  ,NY,BIDV4624,2008,NorthEast,Atlantic,A,B,,
+HM488240,Blue Jay  ,NY,BIDV4627,2008,NorthEast,Atlantic,,,C,
+HM488241,American Crow  ,NY,BIDV4628,2008,NorthEast,Atlantic,A,,C,
+HM488242,Black-capped Chickadee,NY,BIDV4631,2008,NorthEast,Atlantic,,,,
+HM488243,American Crow  ,NY,BIDV4632,2008,NorthEast,Atlantic,A,B,C,
+HM488244,American Kestrel  ,NY,BIDV4634,2008,NorthEast,Atlantic,,B,C,
+HM488245,American Crow  ,NY,BIDV4635,2008,NorthEast,Atlantic,A,B,C,
+HM488246,American Crow  ,NY,BIDV4689,2001,NorthEast,Atlantic,,,,
+HM488247,American Crow  ,NY,BIDV4691,2001,NorthEast,Atlantic,A,B,C,
+HM488248,American Crow  ,NY,BIDV4694,2001,NorthEast,Atlantic,A,,,
+HM488249,American Crow  ,NY,BIDV4696,2001,NorthEast,Atlantic,A,B,C,
+HM488250,American Crow  ,NY,BIDV4717,2003,NorthEast,Atlantic,,,C,
+HM488251,American Crow  ,NY,BIDV4719,2003,NorthEast,Atlantic,A,B,C,
+HM488252,American Crow  ,NY,BIDV4805,2005,NorthEast,Atlantic,A,,C,
+HM488253,mosquito,IL,BIDV4553,2006,MidWest,Mississippi,A,,C,
+HM488254,mosquito,IL,BIDV4559,2007,MidWest,Mississippi,,B,,
+HM756648,mosquito,CT,BIDV4205,2002,NorthEast,Atlantic,,,,
+HM756649,mosquito,CT,BIDV4354,2006,NorthEast,Atlantic,A,,C,
+HM756650,mosquito,CT,BIDV4582,2003,NorthEast,Atlantic,,B,C,
+HM756651,mosquito,CT,BIDV4584,2003,NorthEast,Atlantic,,B,,
+HM756652,mosquito,CT,BIDV4587,2003,NorthEast,Atlantic,A,,,
+HM756653,mosquito,CT,BIDV4588,2003,NorthEast,Atlantic,,B,,
+HM756654,mosquito,CT,BIDV4598,2003,NorthEast,Atlantic,A,,C,
+HM756656,mosquito,CT,BIDV4615,2003,NorthEast,Atlantic,A,B,C,
+HM756657,mosquito,CT,BIDV4685,2003,NorthEast,Atlantic,,,C,
+HM756658,mosquito,CT,BIDV4686,2003,NorthEast,Atlantic,,,,
+HM756659,mosquito,CT,BIDV4687,2003,NorthEast,Atlantic,,,,
+HM756660,Cooper's Hawk,NY,BIDV4097,2008,NorthEast,Atlantic,A,,C,
+HM756661,American Crow  ,NY,BIDV4692,2001,NorthEast,Atlantic,A,,,
+HM756662,American Crow  ,NY,BIDV4693,2001,NorthEast,Atlantic,A,,,
+HM756663,American Crow  ,NY,BIDV4697,2001,NorthEast,Atlantic,A,,,
+HM756664,American Crow  ,NY,BIDV4701,2002,NorthEast,Atlantic,A,,,
+HM756665,American Crow  ,NY,BIDV4709,2002,NorthEast,Atlantic,,B,,
+HM756666,American Crow  ,NY,BIDV4711,2003,NorthEast,Atlantic,,B,,
+HM756667,American Crow  ,NY,BIDV4712,2003,NorthEast,Atlantic,A,B,C,
+HM756668,American Crow  ,NY,BIDV4716,2003,NorthEast,Atlantic,,B,,
+HM756669,American Crow  ,NY,BIDV4718,2003,NorthEast,Atlantic,,B,,
+HM756670,American Crow  ,NY,BIDV4720,2003,NorthEast,Atlantic,,B,C,
+HM756671,American Crow  ,NY,BIDV4798,2004,NorthEast,Atlantic,,B,C,
+HM756672,American Crow  ,NY,BIDV4799,2004,NorthEast,Atlantic,A,,,
+HM756673,American Crow  ,NY,BIDV4801,2004,NorthEast,Atlantic,,B,,
+HM756675,American Crow  ,NY,BIDV4806,2005,NorthEast,Atlantic,A,,,
+HM756676,Blue Jay  ,IL,BIDV4349,2003,MidWest,Mississippi,,,,
+HM756677,Lorii,NM,BIDV4530,2005,West,Central,A,B,,
+HM756678,American Crow  ,NY,BIDV4095,2007,NorthEast,Atlantic,,,,
+HQ671697,mosquito,CT,BIDV4197,2001,NorthEast,Atlantic,A,B,C,
+HQ671698,mosquito,CT,BIDV4203,2002,NorthEast,Atlantic,,,,
+HQ671699,mosquito,CT,BIDV4206,2002,NorthEast,Atlantic,A,,C,
+HQ671700,mosquito,CT,BIDV4576,2003,NorthEast,Atlantic,A,B,C,
+HQ671701,mosquito,CT,BIDV4590,2003,NorthEast,Atlantic,A,,,
+HQ671702,mosquito,CT,BIDV4595,2003,NorthEast,Atlantic,,B,C,
+HQ671703,mosquito,CT,BIDV4611,2003,NorthEast,Atlantic,A,B,C,
+HQ671704,mosquito,CT,BIDV4618,2003,NorthEast,Atlantic,,,C,
+HQ671705,mosquito,CT,BIDV4620,2003,NorthEast,Atlantic,,B,,
+HQ671707,mosquito,CT,BIDV4899,1999,NorthEast,Atlantic,A,B,,
+HQ671708,mosquito,CT,BIDV4900,2000,NorthEast,Atlantic,,B,C,
+HQ671709,mosquito,CT,BIDV4901,2000,NorthEast,Atlantic,A,,C,
+HQ671710,mosquito,CT,BIDV4902,2000,NorthEast,Atlantic,,,,
+HQ671711,mosquito,CT,BIDV4903,2000,NorthEast,Atlantic,,,,
+HQ671712,mosquito,CT,BIDV4904,2000,NorthEast,Atlantic,,,,
+HQ671713,American Crow  ,CT,BIDV4905,2001,NorthEast,Atlantic,,B,,
+HQ671714,mosquito,CT,BIDV4906,2001,NorthEast,Atlantic,A,,,
+HQ671715,mosquito,CT,BIDV4908,2001,NorthEast,Atlantic,,,,
+HQ671716,mosquito,CT,BIDV4909,2001,NorthEast,Atlantic,,B,C,
+HQ671717,mosquito,CT,BIDV4910,2001,NorthEast,Atlantic,A,,,
+HQ671718,mosquito,CT,BIDV4911,2001,NorthEast,Atlantic,,,C,
+HQ671719,mosquito,CT,BIDV4912,2001,NorthEast,Atlantic,,B,,
+HQ671720,American Crow  ,CT,BIDV4913,2002,NorthEast,Atlantic,A,B,C,
+HQ671721,American Crow  ,NY,BIDV4625,2008,NorthEast,Atlantic,A,,,
+HQ671722,American Crow  ,NY,BIDV4704,2002,NorthEast,Atlantic,,,,
+HQ671723,American Crow  ,NY,BIDV4715,2003,NorthEast,Atlantic,A,B,,
+HQ671724,American Crow  ,NY,BIDV4883,2005,NorthEast,Atlantic,,B,C,
+HQ671725,American Crow  ,NY,BIDV4885,2005,NorthEast,Atlantic,,,,
+HQ671726,American Crow  ,NY,BIDV4887,2005,NorthEast,Atlantic,,,,
+HQ671727,American Crow  ,NY,BIDV4889,2006,NorthEast,Atlantic,A,B,,
+HQ671728,American Crow  ,NY,BIDV4891,2006,NorthEast,Atlantic,,B,C,
+HQ671729,American Crow  ,NY,BIDV4892,2006,NorthEast,Atlantic,A,,,
+HQ671730,American Crow  ,NY,BIDV4897,2007,NorthEast,Atlantic,,,C,
+HQ671742,Blue Jay  ,IL,BIDV4343,2002,MidWest,Mississippi,,B,,
+HQ705659,mosquito,CT,BIDV4209,2003,NorthEast,Atlantic,A,,,
+HQ705660,American Crow  ,NY,BIDV4714,2003,NorthEast,Atlantic,,B,,
+JF488086,mosquito,CT,BIDV5176,2004,NorthEast,Atlantic,A,,C,
+JF488087,mosquito,CT,BIDV5177,2004,NorthEast,Atlantic,,,C,
+JF488088,mosquito,CT,BIDV5178,2004,NorthEast,Atlantic,A,,C,
+JF488089,mosquito,CT,BIDV5179,2004,NorthEast,Atlantic,,B,,
+JF488090,mosquito,CT,BIDV5180,2004,NorthEast,Atlantic,A,B,,
+JF488091,mosquito,CT,BIDV5181,2004,NorthEast,Atlantic,A,,,
+JF488092,mosquito,CT,BIDV5182,2004,NorthEast,Atlantic,,,,
+JF488093,mosquito,CT,BIDV5188,2005,NorthEast,Atlantic,,B,,
+JF488094,American Crow  ,NY,BIDV5150,2004,NorthEast,Atlantic,A,B,,
+JF488095,American Crow  ,NY,BIDV5157,2009,NorthEast,Atlantic,A,B,,
+JF488096,American Crow  ,NY,BIDV5159,2009,NorthEast,Atlantic,A,B,C,
+JF488097,American Crow  ,NY,BIDV5148,2007,NorthEast,Atlantic,A,,C,
+JF730042,American Crow  ,NY,BIDV5147,2007,NorthEast,Atlantic,A,B,C,
+JF730043,mosquito,CT,BIDV5170,2002,NorthEast,Atlantic,,,C,
+JF899528,American Crow  ,NY,BIDV4800,2004,NorthEast,Atlantic,,,C,
+JF899529,American Crow  ,NY,BIDV4808,2005,NorthEast,Atlantic,,B,C,
+JF920306,mosquito,CT,BIDV4597,2003,NorthEast,Atlantic,A,,,
+JF920307,mosquito,CT,BIDV4907,2001,NorthEast,Atlantic,A,B,,
+JF920728,mosquito,CT,BIDV4568,2003,NorthEast,Atlantic,,,,
+JF920729,mosquito,CT,BIDV5196,2006,NorthEast,Atlantic,A,,,
+JF920730,mosquito,CT,BIDV5197,2006,NorthEast,Atlantic,A,B,,
+JF920731,mosquito,CT,BIDV5201,2006,NorthEast,Atlantic,A,B,C,
+JF920732,mosquito,CT,BIDV5202,2006,NorthEast,Atlantic,A,,C,
+JF920733,mosquito,CT,BIDV5203,2006,NorthEast,Atlantic,,,,
+JF920734,mosquito,CT,BIDV5204,2006,NorthEast,Atlantic,A,B,C,
+JF920735,mosquito,CT,BIDV5205,2006,NorthEast,Atlantic,A,B,,
+JF920736,mosquito,CT,BIDV5206,2006,NorthEast,Atlantic,A,B,C,
+JF920737,mosquito,CT,BIDV5207,2006,NorthEast,Atlantic,,,,
+JF920738,mosquito,CT,BIDV5208,2007,NorthEast,Atlantic,A,,,
+JF920739,mosquito,CT,BIDV5209,2007,NorthEast,Atlantic,,B,,
+JF920741,mosquito,CT,BIDV5212,2007,NorthEast,Atlantic,,,C,
+JF920742,mosquito,CT,BIDV5213,2007,NorthEast,Atlantic,,B,C,
+JF920743,mosquito,CT,BIDV5214,2007,NorthEast,Atlantic,A,,,
+JF920744,mosquito,CT,BIDV5215,2007,NorthEast,Atlantic,,B,,
+JF920745,mosquito,CT,BIDV5216,2007,NorthEast,Atlantic,,B,C,
+JF920746,mosquito,CT,BIDV5217,2007,NorthEast,Atlantic,,,C,
+JF920747,mosquito,CT,BIDV5218,2008,NorthEast,Atlantic,,,C,
+JF920748,mosquito,CT,BIDV5219,2008,NorthEast,Atlantic,,,,
+JF920749,mosquito,CT,BIDV5220,2008,NorthEast,Atlantic,,,,
+JF920750,mosquito,CT,BIDV5222,2008,NorthEast,Atlantic,,,,
+JF920751,mosquito,CT,BIDV5223,2008,NorthEast,Atlantic,,B,C,
+JF920752,mosquito,CT,BIDV5224,2008,NorthEast,Atlantic,A,B,,
+JF920753,mosquito,CT,BIDV5225,2008,NorthEast,Atlantic,A,B,C,
+JF920754,mosquito,CT,BIDV5226,2008,NorthEast,Atlantic,A,,,
+JF920755,mosquito,CT,BIDV5227,2008,NorthEast,Atlantic,A,,,
+JF920756,mosquito,CT,BIDV5229,2008,NorthEast,Atlantic,A,B,,
+JF920757,mosquito,CT,BIDV5230,2008,NorthEast,Atlantic,A,,,
+JF920758,mosquito,CT,BIDV5233,2009,NorthEast,Atlantic,,,,
+JF920759,mosquito,CT,BIDV5234,2009,NorthEast,Atlantic,,,,
+JF920760,mosquito,CT,BIDV5235,2009,NorthEast,Atlantic,A,B,,
+JF957171,bird,ID,ID21bird07,2007,West,Pacific,,B,C,
+JF957172,bird,ID,ID28bird07,2007,West,Pacific,,B,C,
+JF972636,mosquito,CT,BIDV5228,2008,NorthEast,Atlantic,A,,,
+JN183885,Blue Jay  ,NY,BIDV4626,2008,NorthEast,Atlantic,,,C,
+JN183886,Blue Jay  ,NY,BIDV4629,2008,NorthEast,Atlantic,A,,C,
+JN183887,American Crow  ,NY,BIDV4706,2002,NorthEast,Atlantic,,,C,
+JN183888,American Crow  ,NY,BIDV4896,2006,NorthEast,Atlantic,A,,,
+JN183890,mosquito,CT,BIDV4699,2003,NorthEast,Atlantic,A,B,C,
+JN183891,Blue Jay  ,IL,BIDV4344,2002,MidWest,Mississippi,,,C,
+JN183892,mosquito,IL,BIDV4379,2005,MidWest,Mississippi,A,,,
+JN367277,American Crow  ,NY,BIDV4803,2004,NorthEast,Atlantic,,,C,
+KC736486,mosquito,TX,AVA1202598,2012,South,Central,,,,
+KC736487,mosquito,TX,AVA1202600,2012,South,Central,,,,
+KC736488,mosquito,TX,AVA1202606,2012,South,Central,,B,,
+KC736489,mosquito,TX,AVA1202615,2012,South,Central,,,C,
+KC736490,mosquito,TX,AVA1202621,2012,South,Central,A,,C,
+KC736491,mosquito,TX,AVA1202624,2012,South,Central,,,,
+KC736492,mosquito,TX,AVA1202689,2012,South,Central,,,C,
+KC736493,mosquito,TX,AVA1202696,2012,South,Central,,,C,
+KC736494,mosquito,TX,AVA1204250,2012,South,Central,,,C,
+KC736495,mosquito,TX,AVA1204331,2012,South,Central,A,B,C,
+KC736496,mosquito,TX,AVA1204356,2012,South,Central,,,C,
+KC736497,mosquito,TX,AVA1204485,2012,South,Central,A,B,,
+KC736498,mosquito,TX,AVA1204579,2012,South,Central,,,,
+KC736499,mosquito,TX,AVA1204580,2012,South,Central,A,,C,
+KC736500,mosquito,TX,AVA1204753,2012,South,Central,A,,C,
+KC736501,mosquito,TX,AVA1204895,2012,South,Central,,,,
+KC736502,mosquito,TX,AVA1204260,2012,South,Central,,B,C,
+KF704147,mosquito,CA,AZ1091,2010,West,Pacific,,B,,
+KF704153,mosquito,AZ,AZ10581,2010,West,Pacific,A,B,,
+KF704158,mosquito,AZ,AZ10892,2010,West,Pacific,,,,
+KJ145799,mosquito,CT,BIDV4106,2005,NorthEast,Atlantic,A,,C,
+KJ145827,American Crow  ,NY,BIDV6056,2010,NorthEast,Atlantic,,,C,
+KJ145828,American Crow  ,NY,BIDV6057,2010,NorthEast,Atlantic,A,,,
+KJ145829,American Crow  ,NY,BIDV6058,2010,NorthEast,Atlantic,,B,C,
+KJ145832,Lorii,NM,BIDV4529,2007,West,Central,A,B,C,
+NC009942,Flamingo,NY,385-99,1999,NorthEast,Atlantic,A,,,
+KJ501530,Canada Goose,PA,V7281_24153001,2012,NorthEast,Atlantic,,,,This study
+KJ501529,American White Pelican  ,WI,V6701_19893001,2006,MidWest,Mississippi,A,,C,This study
+KJ501528,Blue Jay  ,TX,V6697_4788055,2002,South,Central,A,B,,This study
+KJ501527,American Crow  ,TX,V6696_4867383,2003,South,Central,,,,This study
+KJ501526,Least Tern  ,SD,V6692_19815001,2006,MidWest,Central,,B,C,This study
+KJ501525,American White Pelican  ,SD,V6689_4927038,2004,MidWest,Central,,B,C,This study
+KJ501524,  Spotted Sandpiper  ,ND,V6682_19935001,2006,MidWest,Central,A,,,This study
+KJ501523,Least Tern  ,ND,V6680_19847001,2006,MidWest,Central,,,,This study
+KJ501522,American White Pelican  ,ND,V6676_19168001,2004,MidWest,Central,,,C,This study
+KJ501521,American White Pelican  ,NV,V6672_19825002,2006,West,Pacific,A,B,C,This study
+KJ501520,American White Pelican  ,MN,V6661_19252001,2004,MidWest,Mississippi,A,B,,This study
+KJ501519,American Crow  ,VA,V6652_4813135,2002,South,Atlantic,,B,C,This study
+KJ501518,American White Pelican  ,MT,V6640_20364002,2007,West,Central,,B,C,This study
+KJ501517,American Crow  ,OH,V6626_4813150,2002,MidWest,Mississippi,,,,This study
+KJ501516,American Crow  ,OH,V6625_4733357,2001,MidWest,Mississippi,A,B,,This study
+KJ501515,Red-headed Tanager  ,NJ,V6620_4749063,2001,NorthEast,Atlantic,A,B,,This study
+KJ501514,American Crow  ,GA,V6619_4813357,2002,South,Atlantic,,,C,This study
+KJ501513,Blue Jay  ,GA,V6618_4813296,2002,South,Atlantic,A,,C,This study
+KJ501512,American Crow  ,GA,V6616_4745142,2001,South,Atlantic,,B,,This study
+KJ501511,Blue Jay  ,AR,V6613_4821019,2002,South,Mississippi,A,B,C,This study
+KJ501510,Blue Jay  ,AR,V6612_4821014,2002,South,Mississippi,,B,,This study
+KJ501509,Brewer's Blackbird  ,WI,V6575_4738063,2001,MidWest,Mississippi,A,,C,This study
+KJ501508,Mourning dove,TX,V6560_4867361,2003,South,Central,A,B,,This study
+KJ501507,American White Pelican  ,SD,V6556_18320002,2001,MidWest,Central,A,,C,This study
+KJ501506,American Crow  ,OK,V6553_18831001,2003,South,Central,,B,C,This study
+KJ501505,American Crow  ,OK,V6550_4834001,2002,South,Central,A,,,This study
+KJ501504,Canada Goose,ND,V6548_18755001,2003,MidWest,Central,A,B,C,This study
+KJ501503,American Robin  ,ND,V6545_4820065,2002,MidWest,Central,,,,This study
+KJ501502,American Crow  ,MT,V6542_4817018,2002,West,Central,A,,,This study
+KJ501501,American Crow  ,MO,V6538_4744049,2002,MidWest,Mississippi,,,,This study
+KJ501500,Herring Gull  ,MD,V6536_22820004,2009,South,Atlantic,A,B,C,This study
+KJ501499,American Kestrel  ,MD,V6535_18838004,2003,South,Atlantic,,,C,This study
+KJ501497,Hawk,IL,V6532_4737113,2001,MidWest,Mississippi,,,C,This study
+KJ501496,Blue Jay  ,IL,V6531_4737114,2001,MidWest,Mississippi,A,,C,This study
+KJ501495,Blue Jay  ,DC,V6530_4813156,2002,South,Atlantic,,B,,This study
+KJ501494,American Crow  ,DC,V6528_4745126,2001,South,Atlantic,,B,,This study
+KJ501493,Northern Mockingbird  ,DC,V6526_4745139,2001,South,Atlantic,A,,,This study
+KJ501492,American White Pelican  ,WI,V6512_4813226,2005,MidWest,Mississippi,A,B,C,This study
+KJ501491,American Crow  ,VA,V6508_4813133,2002,South,Atlantic,,B,,This study
+KJ501490,American Crow  ,VA,V6507_4813107,2002,South,Atlantic,,,C,This study
+KJ501489,American Crow  ,VA,V6506_4813099,2002,South,Atlantic,,,C,This study
+KJ501488,American White Pelican  ,ND,V6499_18721002,2003,MidWest,Central,,B,,This study
+KJ501487,American Crow  ,NC,V6497_44016001,2005,South,Atlantic,,,C,This study
+KJ501486,Red-headed Tanager  ,NJ,V6496_4749051,2001,NorthEast,Atlantic,,B,,This study
+KJ501485,American White Pelican  ,NV,V6495_19825001,2006,West,Pacific,A,,,This study
+KJ501484,American Crow  ,NE,V6493_4830005,2002,MidWest,Central,,,,This study
+KJ501483,Blue Jay  ,NE,V6492_4830003,2002,MidWest,Central,A,,,This study
+KJ501482,Blue Jay  ,NE,V6491_4830001,2002,MidWest,Central,A,B,C,This study
+KJ501481,American Crow  ,MI,V6483_4813247,2002,MidWest,Mississippi,A,,C,This study
+KJ501480,American Crow  ,MD,V6478_4745118,2001,South,Atlantic,A,,C,This study
+KJ501479,House Sparrow  ,KY,V6477_18323012,2002,South,Mississippi,,,C,This study
+KJ501478,Blue Jay  ,KS,V6475_4878001,2003,MidWest,Central,,B,,This study
+KJ501476,Black-billed Magpie  ,KS,V6473_4812059,2002,MidWest,Central,,,,This study
+KJ501475,Blue Jay  ,KS,V6471_4812038,2002,MidWest,Central,,B,,This study
+KJ501474,Great Horned Owl  ,IA,V6470_18373001,2002,MidWest,Mississippi,A,,,This study
+KJ501473,American Crow  ,IL,V6469_4737065,2001,MidWest,Mississippi,,B,,This study
+KJ501472,American Crow  ,GA,V6468_4855132,2003,South,Atlantic,A,,C,This study
+KJ501471,Bald Eagle  ,AZ,V6465_19515001,2005,West,Pacific,A,,C,This study
+KJ501470,Ring-billed Gull,SD,V6463_18739002,2003,MidWest,Central,,,,This study
+KJ501469,Piping Plover,NE,V6462_18764001,2003,MidWest,Central,A,,,This study
+KJ501468,European Starling,MS,V6458_4734064,2001,South,Mississippi,,,,This study
+KJ501467,Great Horned Owl  ,MI,V6453_18354002,2002,MidWest,Mississippi,,,,This study
+KJ501466,Great Horned Owl  ,MI,V6451_18354003,2002,MidWest,Mississippi,,B,C,This study
+KJ501465,American Crow  ,MI,V6450_4736009,2001,MidWest,Mississippi,,,,This study
+KJ501464,Blue Jay  ,MD,V6448_4813289,2002,South,Atlantic,,,,This study
+KJ501463,American Crow  ,KS,V6442_4812030,2002,MidWest,Central,A,,C,This study
+KJ501462,Red-headed Tanager  ,IA,V6441_18348001,2002,MidWest,Mississippi,,B,C,This study
+KJ501461,Sanderling,FL,V6440_19549002,2005,South,Atlantic,,B,C,This study
+KJ501459,American Crow  ,OK,V6437_18826001,2003,South,Central,A,,C,This study
+KJ501458,Blue Jay  ,MO,V6432_4744058,2002,MidWest,Mississippi,,B,,This study
+KJ501457,American Crow  ,MA,V6429_4855206,2003,NorthEast,Atlantic,,,,This study
+KJ501456,American Crow  ,MD,V6426_4855135,2003,South,Atlantic,,B,,This study
+KJ501455,Blue Jay  ,AL,V6418_4746041,2001,South,Mississippi,,B,C,This study
+KJ501454,American Crow  ,WI,V6408_4738135,2001,MidWest,Mississippi,,,C,This study
+KJ501453,American Crow  ,WI,V6407_4738140,2001,MidWest,Mississippi,A,,C,This study
+KJ501452,American Crow  ,WI,V6405_4738053,2001,MidWest,Mississippi,,B,,This study
+KJ501451,American Crow  ,PA,V6402_4855151,2003,NorthEast,Atlantic,A,B,,This study
+KJ501450,American Crow  ,PA,V6399_4814013,2002,NorthEast,Atlantic,A,,,This study
+KJ501449,Blue Jay  ,PA,V6398_4814006,2002,NorthEast,Atlantic,A,B,C,This study
+KJ501447,American Crow  ,NC,V6388_4870010,2003,South,Atlantic,A,,,This study
+KJ501446,Great Horned Owl  ,NJ,V6386_4896035,2003,NorthEast,Atlantic,,B,C,This study
+KJ501444,Blue Jay  ,GA,V6377_4813218,2002,South,Atlantic,A,,C,This study
+KJ501443,American Crow  ,IL,V6373_4737463,2001,MidWest,Mississippi,,,,This study
+KJ501442,Bald Eagle  ,AZ,V6371_23050001,2010,West,Pacific,,,C,This study
+KJ501441,Ferruginous Hawk,SD,V6213_22284001,2008,MidWest,Central,,B,,This study
+KJ501440,American White Pelican  ,SD,V6212_22171003,2008,MidWest,Central,,,,This study
+KJ501439,American Crow  ,MO,V6194_4750030,2001,MidWest,Mississippi,A,,,This study
+KJ501437,American Crow  ,WI,V7286_2284,2012,MidWest,Mississippi,,,,This study
+KJ501434,American White Pelican  ,MT,V7277_25059001,2012,West,Central,,,,This study
+KJ501432,American Crow  ,MA,V7270_24120001,2012,NorthEast,Atlantic,A,,,This study
+KJ501431,American White Pelican  ,WI,V6704_19893004,2006,MidWest,Mississippi,A,,C,This study
+KJ501430,American White Pelican  ,WI,V6703_19893003,2006,MidWest,Mississippi,,,C,This study
+KJ501429,American White Pelican  ,WI,V6702_19893002,2006,MidWest,Mississippi,,,C,This study
+KJ501428,Double-crested Cormorant,CA,V6700_19880003,2006,West,Pacific,,,,This study
+KJ501427,Mississippi Kite,TX,V6699_4788591,2002,South,Central,,B,,This study
+KJ501426,American Crow  ,TX,V6698_4788044,2002,South,Central,,,C,This study
+KJ501425,American White Pelican  ,SD,V6695_20373002,2007,MidWest,Central,A,,C,This study
+KJ501424,American White Pelican  ,SD,V6694_20373001,2007,MidWest,Central,A,B,C,This study
+KJ501423,American White Pelican  ,SD,V6691_4927040,2004,MidWest,Central,,,,This study
+KJ501422,American White Pelican  ,SD,V6690_4927039,2004,MidWest,Central,A,,,This study
+KJ501421,American White Pelican  ,SD,V6688_4927037,2004,MidWest,Central,,,C,This study
+KJ501419,American White Pelican  ,SD,V6686_4927035,2004,MidWest,Central,A,B,C,This study
+KJ501418,Least Tern  ,ND,V6685_22304006,2008,MidWest,Central,,,C,This study
+KJ501416,Piping Plover,ND,V6683_19935007,2006,MidWest,Central,,B,C,This study
+KJ501414,Common Tern,ND,V6678_19504001,2005,MidWest,Central,A,B,,This study
+KJ501413,American Crow  ,NC,V6675_4937003,2004,South,Atlantic,A,B,,This study
+KJ501412,House Sparrow  ,NE,V6674_22195002,2008,MidWest,Central,,,,This study
+KJ501410,Tree Swallow,MN,V6670_19879002,2006,MidWest,Mississippi,,,C,This study
+KJ501409,American White Pelican  ,NV,V6669_19863001,2006,West,Pacific,,,,This study
+KJ501408,American White Pelican  ,MT,V6668_19860003,2006,West,Central,,B,C,This study
+KJ501407,American White Pelican  ,MT,V6667_19860002,2006,West,Central,A,,C,This study
+KJ501406,American White Pelican  ,MT,V6666_19860001,2006,West,Central,,,C,This study
+KJ501405,American White Pelican  ,MN,V6665_19832007,2006,MidWest,Mississippi,,,C,This study
+KJ501404,American White Pelican  ,MN,V6664_19492005,2005,MidWest,Mississippi,,,,This study
+KJ501403,American White Pelican  ,MN,V6663_19492001,2005,MidWest,Mississippi,A,,,This study
+KJ501402,American White Pelican  ,MN,V6662_19252002,2004,MidWest,Mississippi,A,,,This study
+KJ501401,American Crow  ,IL,V6659_4737091,2001,MidWest,Mississippi,,,,This study
+KJ501400,House Sparrow  ,DC,V6658_4813158,2002,South,Atlantic,,,C,This study
+KJ501399,House Finch,DC,V6657_4813105,2002,South,Atlantic,A,B,,This study
+KJ501398,Brown Pelican,CA,V6656_19240001,2004,West,Pacific,A,B,,This study
+KJ501397,Blue Jay  ,AL,V6654_4728032,2002,South,Mississippi,A,,C,This study
+KJ501396,American Crow  ,VA,V6653_4855154,2003,South,Atlantic,,,,This study
+KJ501395,American Crow  ,VA,V6651_4745144,2001,South,Atlantic,,,,This study
+KJ501394,American Crow  ,VA,V6650_4743002,2001,South,Atlantic,A,,,This study
+KJ501393,American Crow  ,VA,V6649_4745115,2001,South,Atlantic,,B,C,This study
+KJ501392,American White Pelican  ,SD,V6648_4927009,2003,MidWest,Central,,B,C,This study
+KJ501391,American White Pelican  ,SD,V6647_4927034,2003,MidWest,Central,A,,C,This study
+KJ501390,American White Pelican  ,SD,V6646_4927033,2003,MidWest,Central,,,C,This study
+KJ501389,American White Pelican  ,SD,V6645_4927032,2003,MidWest,Central,,,,This study
+KJ501388,Blue Jay  ,NE,V6643_4830011,2002,MidWest,Central,,,,This study
+KJ501387,Blue Jay  ,NE,V6642_4830004,2002,MidWest,Central,,B,,This study
+KJ501386,American White Pelican  ,MT,V6639_20364001,2007,West,Central,,,C,This study
+KJ501385,Swainson's Hawk,MT,V6637_19176001,2004,West,Central,A,B,,This study
+KJ501384,Blue Jay  ,MS,V6635_4787013,2002,South,Mississippi,,B,,This study
+KJ501383,Blue Jay  ,MS,V6634_4787012,2002,South,Mississippi,,B,C,This study
+KJ501382,Double-crested Cormorant,MN,V6633_18783001,2003,MidWest,Mississippi,A,B,,This study
+KJ501381,American White Pelican  ,MN,V6632_18733001,2003,MidWest,Mississippi,A,,,This study
+KJ501380,Great Horned Owl  ,WI,V6631_18329001,2002,MidWest,Mississippi,,B,,This study
+KJ501379,Blue Jay  ,WI,V6630_4737060,2001,MidWest,Mississippi,A,,,This study
+KJ501378,American Crow  ,PA,V6629_4729006,2001,NorthEast,Atlantic,,B,C,This study
+KJ501377,Great Horned Owl  ,OH,V6628_18310001,2001,MidWest,Mississippi,,,C,This study
+KJ501376,Great Horned Owl  ,OH,V6627_18352003,2002,MidWest,Mississippi,A,,,This study
+KJ501375,American Crow  ,DC,V6623_4813142,2002,South,Atlantic,,B,,This study
+KJ501374,Red-headed Tanager  ,NJ,V6622_4749098,2001,NorthEast,Atlantic,A,,C,This study
+KJ501373,Blue Jay  ,GA,V6617_4813185,2002,South,Atlantic,,,C,This study
+KJ501372,Black Vulture,FL,V6615_18853001,2003,South,Atlantic,,,C,This study
+KJ501371,Blue Jay  ,AR,V6611_4821010,2002,South,Mississippi,A,,,This study
+KJ501370,Blue Jay  ,AR,V6610_4821009,2002,South,Mississippi,A,B,C,This study
+KJ501368,American Crow  ,TN,V6573_4813110,2002,South,Mississippi,A,,,This study
+KJ501367,American Crow  ,RI,V6572_4855196,2003,NorthEast,Atlantic,,,C,This study
+KJ501366,American Crow  ,PA,V6571_4855200,2003,NorthEast,Atlantic,,B,C,This study
+KJ501365,American Crow  ,PA,V6570_4855188,2003,NorthEast,Atlantic,,,C,This study
+KJ501364,American Crow  ,PA,V6569_4814016,2002,NorthEast,Atlantic,A,B,C,This study
+KJ501363,American Crow  ,OH,V6568_4733327,2001,MidWest,Mississippi,A,B,,This study
+KJ501362,American Crow  ,OH,V6567_4733495,2001,MidWest,Mississippi,,,C,This study
+KJ501361,Blue Jay  ,OH,V6566_4733437,2001,MidWest,Mississippi,,,C,This study
+KJ501360,Blue Jay  ,NC,V6565_4870069,2003,South,Atlantic,A,B,,This study
+KJ501359,American Crow  ,NJ,V6563_4896028,2003,NorthEast,Atlantic,,,C,This study
+KJ501358,Swainson's Hawk,TX,V6562_4867452,2003,South,Central,,B,,This study
+KJ501357,Short-eared Owl,TX,V6561_4867363,2003,South,Central,,,C,This study
+KJ501356,Blue Jay  ,TX,V6559_4855184,2003,South,Central,,,,This study
+KJ501355,Blue Jay  ,TX,V6558_4788033,2002,South,Central,A,,,This study
+KJ501354,American Crow  ,OK,V6555_18826002,2003,South,Central,,B,,This study
+KJ501353,American Crow  ,OK,V6554_4855107,2003,South,Central,,,,This study
+KJ501352,American Crow  ,OK,V6552_4855117,2003,South,Central,,B,,This study
+KJ501351,American Crow  ,OK,V6551_4855092,2003,South,Central,,B,C,This study
+KJ501350,American White Pelican  ,ND,V6547_18742002,2003,MidWest,Central,,,,This study
+KJ501349,Ring-billed Gull,ND,V6546_18735004,2003,MidWest,Central,,B,,This study
+KJ501348,American White Pelican  ,NM,V6544_18799001,2003,West,Central,,B,,This study
+KJ501347,American Crow  ,NM,V6543_4819004,2002,West,Central,,B,,This study
+KJ501346,American White Pelican  ,MO,V6541_18515001,2003,MidWest,Mississippi,A,B,,This study
+KJ501345,American Crow  ,MO,V6539_4744069,2002,MidWest,Mississippi,A,,,This study
+KJ501344,American Crow  ,DC,V6529_4813092,2002,South,Atlantic,A,,C,This study
+KJ501343,American Crow  ,DC,V6527_17364001,2001,South,Atlantic,,,C,This study
+KJ501342,California condor,CA,V6524_19572001,2005,West,Pacific,,,C,This study
+KJ501341,House Finch,CA,V6523_19480001,2005,West,Pacific,,B,C,This study
+KJ501340,Boat-tailed Grackle,AL,V6522_4855168,2003,South,Mississippi,,,,This study
+KJ501339,Blue Jay  ,AL,V6521_4728051,2002,South,Mississippi,A,,C,This study
+KJ501338,Blue Jay  ,AL,V6519_4728041,2002,South,Mississippi,A,,,This study
+KJ501337,American Crow  ,AL,V6518_4728055,2002,South,Mississippi,A,,,This study
+KJ501336,Blue Jay  ,AL,V6517_4746015,2001,South,Mississippi,,B,C,This study
+KJ501335,American White Pelican  ,WI,V6513_19519002,2005,MidWest,Mississippi,,,C,This study
+KJ501334,American Crow  ,VA,V6511_4855163,2003,South,Atlantic,,,C,This study
+KJ501333,Blue Jay  ,VA,V6510_4813147,2002,South,Atlantic,,B,,This study
+KJ501332,American Crow  ,VA,V6505_4743001,2001,South,Atlantic,A,,,This study
+KJ501331,Red-headed Tanager  ,OH,V6502_18351002,2002,MidWest,Mississippi,A,B,,This study
+KJ501330,Common Tern,ND,V6501_19504002,2005,MidWest,Central,A,B,C,This study
+KJ501329,Canada Goose,ND,V6500_18738002,2003,MidWest,Central,A,B,,This study
+KJ501328,Red-headed Tanager  ,ND,V6498_4820094,2002,MidWest,Central,A,B,C,This study
+KJ501327,Golden Eagle,MT,V6490_18745001,2003,West,Central,,,,This study
+KJ501326,American White Pelican  ,MT,V6489_18741003,2003,West,Central,,,C,This study
+KJ501325,bird,MS,V6488_4787016,2002,South,Mississippi,A,,,This study
+KJ501324,American White Pelican  ,MN,V6487_18783002,2003,MidWest,Mississippi,,B,,This study
+KJ501323,American White Pelican  ,MN,V6486_18733002,2003,MidWest,Mississippi,,,C,This study
+KJ501322,American White Pelican  ,MN,V6485_18306005,2002,MidWest,Mississippi,A,,,This study
+KJ501321,American Crow  ,MI,V6484_4813248,2002,MidWest,Mississippi,,,,This study
+KJ501320,American Crow  ,MD,V6482_4855186,2003,South,Atlantic,A,B,,This study
+KJ501319,American Crow  ,MD,V6481_4813204,2002,South,Atlantic,,B,,This study
+KJ501318,American Crow  ,MD,V6480_4813125,2002,South,Atlantic,,,C,This study
+KJ501317,American Crow  ,MD,V6479_4745143,2001,South,Atlantic,,B,,This study
+KJ501316,Blue Jay  ,KS,V6476_4878002,2003,MidWest,Central,,B,,This study
+KJ501315,American Crow  ,KS,V6472_4812039,2002,MidWest,Central,A,,,This study
+KJ501314,House Finch,DC,V6467_4855160,2003,South,Atlantic,,,C,This study
+KJ501313,American Robin  ,DC,V6466_4855095,2003,South,Atlantic,,B,C,This study
+KJ501312,American Crow  ,VA,V6464_4855172,2003,South,Atlantic,,B,C,This study
+KJ501311,Blue Jay  ,MS,V6461_4787008,2002,South,Mississippi,,B,C,This study
+KJ501310,Loris,MS,V6460_4787011,2002,South,Mississippi,,,C,This study
+KJ501309,Blue Jay  ,MS,V6459_4787010,2002,South,Mississippi,,,C,This study
+KJ501308,American White Pelican  ,MN,V6456_23248002,2010,MidWest,Mississippi,A,,C,This study
+KJ501307,American White Pelican  ,MN,V6454_18306002,2002,MidWest,Mississippi,,,,This study
+KJ501306,Red-headed Tanager  ,MI,V6452_18354004,2002,MidWest,Mississippi,,B,,This study
+KJ501305,American Crow  ,MD,V6449_4855161,2003,South,Atlantic,A,B,,This study
+KJ501304,American Crow  ,MD,V6447_4813106,2002,South,Atlantic,,B,,This study
+KJ501303,Blue Jay  ,KY,V6446_4813238,2002,South,Mississippi,A,,,This study
+KJ501302,Common Grackle,KY,V6445_4813239,2002,South,Mississippi,,B,C,This study
+KJ501301,Blue Jay  ,KS,V6444_4812036,2002,MidWest,Central,A,B,,This study
+KJ501300,Blue Jay  ,KS,V6443_4812033,2002,MidWest,Central,A,,,This study
+KJ501299,American Crow  ,DC,V6438_4813161,2002,South,Atlantic,,,C,This study
+KJ501298,Blue Jay  ,ND,V6436_4820101,2002,MidWest,Central,A,,C,This study
+KJ501297,American White Pelican  ,MT,V6434_18765002,2003,West,Central,A,B,C,This study
+KJ501296,Black-billed Magpie  ,MT,V6433_4817036,2002,West,Central,A,,C,This study
+KJ501295,Blue Jay  ,MO,V6431_4744043,2002,MidWest,Mississippi,,B,,This study
+KJ501294,American Crow  ,MD,V6428_4855152,2003,South,Atlantic,,B,,This study
+KJ501293,American Kestrel  ,MD,V6427_18838001,2003,South,Atlantic,,B,,This study
+KJ501292,American Crow  ,IL,V6425_4737462,2001,MidWest,Mississippi,A,,,This study
+KJ501291,American Crow  ,DC,V6424_4813129,2002,South,Atlantic,A,B,,This study
+KJ501290,American Crow  ,DC,V6423_4813126,2002,South,Atlantic,,,,This study
+KJ501289,American Crow  ,DC,V6422_4745140,2001,South,Atlantic,A,B,,This study
+KJ501288,American Crow  ,DC,V6420_4745124,2001,South,Atlantic,A,,,This study
+KJ501286,Northern Goshawk,WI,V6413_18368001,2002,MidWest,Mississippi,,,,This study
+KJ501285,Pelican,WI,V6412_18329002,2002,MidWest,Mississippi,A,B,,This study
+KJ501284,Blue Jay  ,WI,V6410_4829001,2002,MidWest,Mississippi,A,B,,This study
+KJ501283,American Crow  ,WI,V6409_4738130,2001,MidWest,Mississippi,,B,C,This study
+KJ501282,Great Horned Owl  ,WI,V6406_4737059,2001,MidWest,Mississippi,A,,C,This study
+KJ501281,Blue Jay  ,TN,V6404_4813116,2002,South,Mississippi,,,,This study
+KJ501280,American Crow  ,PA,V6403_4855189,2003,NorthEast,Atlantic,,B,C,This study
+KJ501279,Blue Jay  ,PA,V6401_4814021,2002,NorthEast,Atlantic,,,,This study
+KJ501278,American Crow  ,PA,V6396_4729030,2001,NorthEast,Atlantic,,B,C,This study
+KJ501277,American Crow  ,PA,V6394_4729004,2001,NorthEast,Atlantic,A,,C,This study
+KJ501276,Great Horned Owl  ,OH,V6392_18310002,2002,MidWest,Mississippi,,,,This study
+KJ501275,American Crow  ,OH,V6391_4733314,2001,MidWest,Mississippi,,,C,This study
+KJ501274,American Crow  ,OH,V6390_4733361,2001,MidWest,Mississippi,,,,This study
+KJ501273,Blue Jay  ,NC,V6389_4870043,2003,South,Atlantic,A,B,,This study
+KJ501272,Blue Jay  ,NY,V6387_4855214,2003,NorthEast,Atlantic,,B,,This study
+KJ501271,Great Horned Owl  ,NJ,V6384_4896034,2003,NorthEast,Atlantic,A,,C,This study
+KJ501270,Blue Jay  ,NJ,V6382_4813295,2002,NorthEast,Atlantic,A,,,This study
+KJ501269,American Kestrel  ,NJ,V6380_4749089,2001,NorthEast,Atlantic,,,C,This study
+KJ501268,Merlin,NJ,V6379_4749052,2001,NorthEast,Atlantic,A,,,This study
+KJ501267,American White Pelican  ,NV,V6378_19528003,2005,West,Pacific,,B,,This study
+KJ501266,American Crow  ,GA,V6376_4813245,2002,South,Atlantic,A,B,,This study
+KJ501265,Blue Jay  ,GA,V6375_4813219,2002,South,Atlantic,A,,,This study
+KJ501264,Blue Jay  ,GA,V6374_4745119,2001,South,Atlantic,A,B,,This study
+KJ501263,Blue Jay  ,AR,V6372_4821011,2002,South,Mississippi,A,,,This study
+KJ501261,Blue Jay  ,TX,V6214_4788479,2002,South,Central,,B,C,This study
+KJ501260,American White Pelican  ,SD,V6211_22171002,2008,MidWest,Central,A,,,This study
+KJ501259,Least Tern  ,SD,V6210_20500002,2008,MidWest,Central,,,,This study
+KJ501258,Least Tern  ,SD,V6209_20501001,2007,MidWest,Central,A,B,C,This study
+KJ501257,American Crow  ,ND,V6208_4820096,2002,MidWest,Central,,,C,This study
+KJ501256,American White Pelican  ,ND,V6207_22728001,2009,MidWest,Central,A,,C,This study
+KJ501255,American White Pelican  ,ND,V6204_22225001,2008,MidWest,Central,,,,This study
+KJ501254,Canada Goose,ND,V6203_22212002,2008,MidWest,Central,,,,This study
+KJ501253,Least Tern  ,ND,V6200_20470003,2008,MidWest,Central,A,B,C,This study
+KJ501251,American Crow  ,MT,V6197_22755001,2009,West,Central,,B,,This study
+KJ501250,American White Pelican  ,MT,V6196_22726003,2009,West,Central,,B,C,This study
+KJ501249,American Crow  ,MO,V6193_4750023,2001,MidWest,Mississippi,,,C,This study
+KJ501248,American Crow  ,MO,V6192_4750018,2001,MidWest,Mississippi,A,B,C,This study
+KJ501247,American Crow  ,MO,V6191_4750016,2001,MidWest,Mississippi,,B,,This study
+KJ501246,American Crow  ,MO,V6190_4750015,2001,MidWest,Mississippi,,,,This study
+KJ501244,American Crow  ,MO,V6188_4750010,2001,MidWest,Mississippi,A,,,This study
+KJ501242,American White Pelican  ,MN,V6185_23248003,2010,MidWest,Mississippi,A,,C,This study
+KJ501241,American White Pelican  ,MN,V6184_22721004,2009,MidWest,Mississippi,,,C,This study
+KJ501240,Double-crested Cormorant,MN,V6183_22286001,2008,MidWest,Mississippi,,,C,This study
+KJ501239,Double-crested Cormorant,MN,V6182_22189006,2008,MidWest,Mississippi,,B,C,This study
+KJ501238,Ring-billed Gull,MN,V6179_22189005,2008,MidWest,Mississippi,,,,This study
+KJ501237,American White Pelican  ,MN,V6178_22189007,2008,MidWest,Mississippi,A,,C,This study
+KJ501236,American White Pelican  ,CA,V6177_22758002,2009,West,Pacific,,,,This study
+KJ501235,Blue Jay  ,AR,V6176_4751019,2001,South,Mississippi,A,,,This study
+KJ501234,Blue Jay  ,AR,V6175_4751016,2001,South,Mississippi,,,,This study
+KJ501233,Blue Jay  ,AR,V6173_4751010,2001,South,Mississippi,A,,,This study
