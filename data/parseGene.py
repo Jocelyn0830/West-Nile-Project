@@ -1,3 +1,5 @@
+# Utility file to parse blastn output
+
 import json
 import sys
 import os

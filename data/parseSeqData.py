@@ -1,3 +1,10 @@
+"""
+
+Input data format: many single fasta files (each fasta file contains only one sequence)
+Output data format: a multi fasta file that contains all sequences
+
+"""
+
 import sys
 import os
 
@@ -31,11 +38,5 @@ for folder in subfolders:
                 seq_dic = FastaToDict.fastaToDict(fullfilename)
                 all_seq_dic.update(seq_dic)
 
-# i = 0
-# seq_dic = {}
-# for key, value in all_seq_dic.items():
-#     i += 1
-#     if i <= 1501:
-#         continue
-#     seq_dic[key] = value
+
 FastaToDict.dictToFasta(all_seq_dic, "all_seq.fa")

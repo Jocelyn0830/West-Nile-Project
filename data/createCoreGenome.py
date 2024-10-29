@@ -1,3 +1,10 @@
+"""
+
+After extracting the single genes, we align them separately using MAFFT. 
+We got a multiple sequence alignment for each gene, then we concatenate these sequence
+alignments in original gene order to generate a core genome alignment.
+
+"""
 # Create core genome alignment from single gene alignment files
 
 import sys

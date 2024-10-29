@@ -1,6 +1,8 @@
-# Create core gene from blast output
-# Output are multi-fasta files. Each fasta file contains the specified genes extracted from all sequences
+"""
+Create core gene from blast output. Output are multi-fasta files. 
+Each fasta file contains the specified genes extracted from all sequences
 
+""" 
 import sys
 import os
 

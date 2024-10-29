@@ -1,3 +1,5 @@
+# A bash program to execute blastn to find genes
+
 #!/bin/bash
 
 # specify input directory
