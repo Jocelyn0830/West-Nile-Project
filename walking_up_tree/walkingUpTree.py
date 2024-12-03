@@ -1,5 +1,6 @@
 from Bio import Phylo
 import util
+import csv
 
 # species = input("Please input the file name: ")
 tree = Phylo.read("phylogeny_rooted_v2", "newick")
@@ -25,6 +26,7 @@ names = util.TabulateNames(tree)
 
 
 group_CBPs = {}
+
 for name in names.keys():
     curr_clade = names[name]
     if (len(curr_clade.get_nonterminals()) < 2) or (len(curr_clade[0].get_terminals())< 5) or (len(curr_clade[1].get_terminals()) < 5):
@@ -36,7 +38,6 @@ for name in names.keys():
     subclade_1_list = MakeTerminalDict(curr_clade[1])
     subclade_CBPs['1'] = subclade_1_list
     group_CBPs[name] = subclade_CBPs
-    #print(name, subclade_0_list, subclade_1_list)
 
 env_dict = util.ParseCsv('metadata_add_group.csv')
 
@@ -45,8 +46,8 @@ for elt in group_CBPs.keys():
     branch_names = branch_names + "," + elt
 
 branch_names = branch_names[1:]
-print(branch_names)
 
-for branch, branch_dict in group_CBPs.items():
-    host_matrix = util.BranchGroupMatrix(env_dict, branch_dict)
-    util.write_matrix(branch, host_matrix, "group")
+
+# for branch, branch_dict in group_CBPs.items():
+#     host_matrix = util.BranchGroupMatrix(env_dict, branch_dict)
+#     util.write_matrix(branch, host_matrix, "group")

@@ -86,7 +86,7 @@ def BranchGroupMatrix(env_dict, branch_dict):
     return (group_matrix)
 
 def write_matrix(branch, matrix, type):
-    newfilename = branch + '_' + type + '_matrix.csv'
+    newfilename = "matrix/" + branch + '_' + type + '_matrix.csv'
     file = open(newfilename, "w")
     writer = csv.writer(file)
     if type == "group":
