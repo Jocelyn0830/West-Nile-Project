@@ -13,6 +13,7 @@ offspring.tbl_tree_item <- utils::getFromNamespace(".offspring.tbl_tree_item", "
 tree <- read.tree("/Users/jocelynwang/Desktop/Princeton/West-Nile-Project/data/phylogeny/phylogeny_rooted_v2")
 tree2 <- read.nhx("/Users/jocelynwang/Desktop/Princeton/West-Nile-Project/data/phylogeny/phylogeny_rooted_v2")
 
+ggtree(tree,  layout="circular")
 tree <- drop.tip(tree, tip = "KT934797")
 
 econode1 <- getMRCA(tree, c("DQ080052", "DQ080053", "DQ164201", "DQ431702", "DQ431704", "DQ431711", "DQ666448", "DQ666449", "DQ666451", "JF415919", "JF957164", "JF957166", "JF957170", "JF957173", "KJ501108", "KJ501112", "KJ501113", "KJ501114", "KJ501335", "KJ501348", "KJ501358", "KJ501389", "KJ501398", "KJ501404", "KJ501416", "KJ501419", "KJ501420", "KJ501424", "KJ501431", "KJ501471", "KJ501478", "KJ501526", "KJ501529", "KR348928", "KR348932", "KR348933", "KR348934", "KR348979", "KX547387", "KX547510", "MG004533", "MG004537", "MG004540", "MH170226", "MH170232", "MH170239", "MH170241", "MH170244", "MH170251", "W008", "W009", "W010", "W014", "W015", "W016", "W060", "W061", "W062", "W065", "W067", "W073", "W074", "W075", "W077", "W078", "W082", "W085", "W086", "W090", "W0929", "W101", "W104", "W111", "W112", "W119", "W1452", "W1493", "W173", "W257", "W260", "W344", "W349", "W350", "W351", "W353", "W355", "W538", "W539", "W540", "W541", "W547", "W548", "W550", "W555", "W556", "W557", "W560", "W563", "W564", "W566", "W568", "W569", "W570", "W571", "W572", "W573", "W574", "W575", "W576", "W577", "W582", "W584", "W585", "W587", "W589"))
@@ -305,10 +306,26 @@ ggtree(tree, layout="circular") +
   geom_cladelab(node=econode105, label="PE105", 
                 offset=0.0001, angle=0, hjust=-0.1, vjust=-0.5,
                 fontsize=12, align=T)+
-  geom_hilight(nxode=econode107, fill="lightpink")+
+  geom_hilight(node=econode107, fill="lightpink")+
   geom_cladelab(node=econode107, label="PE107", 
                 offset=0.0001, angle=0, hjust=-0.1, vjust=0.8,
-                fontsize=12, align=T)
+                fontsize=12, align=T)+ 
+  geom_point2(aes(subset=(node %in% c(list21_combined_node,
+                                      list3_combined_node,
+                                      list5_combined_node,
+                                      list17_combined_node,
+                                      list22_combined_node,
+                                      list25_combined_node,
+                                      list28_combined_node,
+                                      list42_combined_node, 
+                                      list43_combined_node,
+                                      list1393_combined_node, 
+                                      list1585_combined_node, 
+                                      list1593_combined_node, 
+                                      list1599_combined_node))), 
+              shape=21, size=12, fill='red')
+
+
 
 table <- read.table("clade.csv", header = FALSE, sep = ",", fill = TRUE)
 table <- data.frame(table[,-1], row.names=table[,1])
@@ -327,9 +344,274 @@ list3_combined <- list3_combined[nzchar(list3_combined)]
 list3_combined_node <- getMRCA(tree, list3_combined)
 
 ggtree(tree, layout="circular") + 
-  geom_hilight(node=list3_0_node, fill="lightskyblue")+
+  geom_hilight(node=list3_0_node, fill="lavender")+
   geom_hilight(node=list3_1_node, fill="lightpink")+
-  geom_point2(aes(subset=(node==2571)), shape=21, size=15, fill='red')
+  geom_point2(aes(subset=(node==2571)), shape=21, size=18, fill='red')+
+  geom_cladelab(node=econode105, label="PE105", 
+                offset=0.0001, angle=0, hjust=-0.1, vjust=-0.5,
+                fontsize=24, align=T)
+
+# PE105 is the same as the group 1 here
+# node 3 separates PE 105 and other strains
+econode105 == list3_1_node
+
+#### node 5
+list5_0 <- as.character(as.vector(table[4,]))
+list5_0 <- list5_0[nzchar(list5_0)]
+list5_0_node <- getMRCA(tree, list5_0)
+
+list5_1 <- as.character(as.vector(table[5,]))
+list5_1 <- list5_1[nzchar(list5_1)]
+list5_1_node <- getMRCA(tree, list5_1)
+
+list5_combined <- as.character(as.vector(table[6,]))
+list5_combined <- list5_combined[nzchar(list5_combined)]
+list5_combined_node <- getMRCA(tree, list5_combined)
+
+ggtree(tree, layout="circular") + 
+  geom_hilight(node=list5_0_node, fill="lavender")+
+  geom_hilight(node=list5_1_node, fill="lightpink")+
+  geom_point2(aes(subset=(node==list5_combined_node)), shape=21, size=18, fill='red')+
+  geom_cladelab(node=econode103, label="PE103", 
+                offset=0.0001, angle=0, hjust=-0.1, vjust=-0.5,
+                fontsize=24, align=T)
+
+# PE103 is the same as the group 1 here
+# node 5 separates PE 103 and other strains
+econode103 == list5_1_node
+
+#### node 17
+list17_0 <- as.character(as.vector(table[7,]))
+list17_0 <- list17_0[nzchar(list17_0)]
+list17_0_node <- getMRCA(tree, list17_0)
+
+list17_1 <- as.character(as.vector(table[8,]))
+list17_1 <- list17_1[nzchar(list17_1)]
+list17_1_node <- getMRCA(tree, list17_1)
+
+list17_combined <- as.character(as.vector(table[9,]))
+list17_combined <- list17_combined[nzchar(list17_combined)]
+list17_combined_node <- getMRCA(tree, list17_combined)
+
+ggtree(tree, layout="circular") + 
+  geom_hilight(node=list17_0_node, fill="lavender")+
+  geom_hilight(node=list17_1_node, fill="lightpink")+
+  geom_point2(aes(subset=(node==list17_combined_node)), shape=21, size=18, fill='red')+
+  geom_cladelab(node=econode91, label="PE91", 
+                offset=0.0001, angle=0, hjust=-0.1, vjust=-0.5,
+                fontsize=24, align=T)
+
+# PE91 is the same as the group 1 here
+# node 17 separates PE 91 and other strains except PE96, PE97, PE98, PE99, PE103, PE105, PE107
+econode91 == list17_1_node
+
+#### node 21
+list21_0 <- as.character(as.vector(table[10,]))
+list21_0 <- list21_0[nzchar(list21_0)]
+list21_0_node <- getMRCA(tree, list21_0)
+
+list21_1 <- as.character(as.vector(table[11,]))
+list21_1 <- list21_1[nzchar(list21_1)]
+list21_1_node <- getMRCA(tree, list21_1)
+
+list21_combined <- as.character(as.vector(table[12,]))
+list21_combined <- list21_combined[nzchar(list21_combined)]
+list21_combined_node <- getMRCA(tree, list21_combined)
+
+ggtree(tree, layout="circular") + 
+  geom_hilight(node=list21_0_node, fill="lightskyblue")+
+  geom_hilight(node=list21_1_node, fill="lightpink")+
+  geom_point2(aes(subset=(node==list21_combined_node)), shape=21, size=18, fill='red')
+
+#### node 22
+list22_0 <- as.character(as.vector(table[13,]))
+list22_0 <- list22_0[nzchar(list22_0)]
+list22_0_node <- getMRCA(tree, list22_0)
+
+list22_1 <- as.character(as.vector(table[14,]))
+list22_1 <- list22_1[nzchar(list22_1)]
+list22_1_node <- getMRCA(tree, list22_1)
+
+list22_combined <- as.character(as.vector(table[15,]))
+list22_combined <- list22_combined[nzchar(list22_combined)]
+list22_combined_node <- getMRCA(tree, list22_combined)
+
+ggtree(tree, layout="circular") + 
+  geom_hilight(node=list22_0_node, fill="lightskyblue")+
+  geom_hilight(node=list22_1_node, fill="lightpink")+
+  geom_point2(aes(subset=(node==list22_combined_node)), shape=21, size=18, fill='red')
+
+#### node 25
+list25_0 <- as.character(as.vector(table[16,]))
+list25_0 <- list25_0[nzchar(list25_0)]
+list25_0_node <- getMRCA(tree, list25_0)
+
+list25_1 <- as.character(as.vector(table[17,]))
+list25_1 <- list25_1[nzchar(list25_1)]
+list25_1_node <- getMRCA(tree, list25_1)
+
+list25_combined <- as.character(as.vector(table[18,]))
+list25_combined <- list25_combined[nzchar(list25_combined)]
+list25_combined_node <- getMRCA(tree, list25_combined)
+
+ggtree(tree, layout="circular") + 
+  geom_hilight(node=list25_0_node, fill="lightskyblue")+
+  geom_hilight(node=list25_1_node, fill="lightpink")+
+  geom_point2(aes(subset=(node==list25_combined_node)), shape=21, size=18, fill='red')
+
+
+#### node 28
+list28_0 <- as.character(as.vector(table[19,]))
+list28_0 <- list28_0[nzchar(list28_0)]
+list28_0_node <- getMRCA(tree, list28_0)
+
+list28_1 <- as.character(as.vector(table[20,]))
+list28_1 <- list28_1[nzchar(list28_1)]
+list28_1_node <- getMRCA(tree, list28_1)
+
+list28_combined <- as.character(as.vector(table[21,]))
+list28_combined <- list28_combined[nzchar(list28_combined)]
+list28_combined_node <- getMRCA(tree, list28_combined)
+
+ggtree(tree, layout="circular") + 
+  geom_hilight(node=list28_0_node, fill="lightskyblue")+
+  geom_hilight(node=list28_1_node, fill="lightpink")+
+  geom_point2(aes(subset=(node==list28_combined_node)), shape=21, size=18, fill='red')
+
+
+#### node 42
+list42_0 <- as.character(as.vector(table[22,]))
+list42_0 <- list42_0[nzchar(list42_0)]
+list42_0_node <- getMRCA(tree, list42_0)
+
+list42_1 <- as.character(as.vector(table[23,]))
+list42_1 <- list42_1[nzchar(list42_1)]
+list42_1_node <- getMRCA(tree, list42_1)
+
+list42_combined <- as.character(as.vector(table[24,]))
+list42_combined <- list42_combined[nzchar(list42_combined)]
+list42_combined_node <- getMRCA(tree, list42_combined)
+
+ggtree(tree, layout="circular") + 
+  geom_hilight(node=list42_0_node, fill="lightskyblue")+
+  geom_hilight(node=list42_1_node, fill="lightpink")+
+  geom_point2(aes(subset=(node==list42_combined_node)), shape=21, size=18, fill='red')
+
+
+#### node 43
+list43_0 <- as.character(as.vector(table[25,]))
+list43_0 <- list43_0[nzchar(list43_0)]
+list43_0_node <- getMRCA(tree, list43_0)
+
+list43_1 <- as.character(as.vector(table[26,]))
+list43_1 <- list43_1[nzchar(list43_1)]
+list43_1_node <- getMRCA(tree, list43_1)
+
+list43_combined <- as.character(as.vector(table[27,]))
+list43_combined <- list43_combined[nzchar(list43_combined)]
+list43_combined_node <- getMRCA(tree, list43_combined)
+
+ggtree(tree, layout="circular") + 
+  geom_hilight(node=list43_0_node, fill="thistle")+
+  geom_hilight(node=list43_1_node, fill="lightpink")+
+  geom_point2(aes(subset=(node==list43_combined_node)), shape=21, size=18, fill='red')+
+  geom_cladelab(node=econode1, label="PE1", 
+                offset=0.0001, angle=0, hjust=1.1,
+                fontsize=24, align=T)
+
+# node 43 separates two different groups within PE 1
+list43_combined_node == econode1
+
+
+#### node 1393
+list1393_0 <- as.character(as.vector(table[28,]))
+list1393_0 <- list1393_0[nzchar(list1393_0)]
+list1393_0_node <- getMRCA(tree, list1393_0)
+
+list1393_1 <- as.character(as.vector(table[29,]))
+list1393_1 <- list1393_1[nzchar(list1393_1)]
+list1393_1_node <- getMRCA(tree, list1393_1)
+
+list1393_combined <- as.character(as.vector(table[30,]))
+list1393_combined <- list1393_combined[nzchar(list1393_combined)]
+list1393_combined_node <- getMRCA(tree, list1393_combined)
+
+ggtree(tree, layout="circular") + 
+  geom_hilight(node=list1393_0_node, fill="lightskyblue")+
+  geom_hilight(node=list1393_1_node, fill="lightpink")+
+  geom_point2(aes(subset=(node==list1393_combined_node)), shape=21, size=18, fill='red')
+
+
+#### node 1585
+list1585_0 <- as.character(as.vector(table[31,]))
+list1585_0 <- list1585_0[nzchar(list1585_0)]
+list1585_0_node <- getMRCA(tree, list1585_0)
+
+list1585_1 <- as.character(as.vector(table[32,]))
+list1585_1 <- list1585_1[nzchar(list1585_1)]
+list1585_1_node <- getMRCA(tree, list1585_1)
+
+list1585_combined <- as.character(as.vector(table[33,]))
+list1585_combined <- list1585_combined[nzchar(list1585_combined)]
+list1585_combined_node <- getMRCA(tree, list1585_combined)
+
+ggtree(tree, layout="circular") + 
+  geom_hilight(node=list1585_0_node, fill="lightskyblue")+
+  geom_hilight(node=list1585_1_node, fill="lightpink")+
+  geom_point2(aes(subset=(node==list1585_combined_node)), shape=21, size=18, fill='red')
+
+
+#### node 1593
+list1593_0 <- as.character(as.vector(table[34,]))
+list1593_0 <- list1593_0[nzchar(list1593_0)]
+list1593_0_node <- getMRCA(tree, list1593_0)
+
+list1593_1 <- as.character(as.vector(table[35,]))
+list1593_1 <- list1593_1[nzchar(list1593_1)]
+list1593_1_node <- getMRCA(tree, list1593_1)
+
+list1593_combined <- as.character(as.vector(table[36,]))
+list1593_combined <- list1593_combined[nzchar(list1593_combined)]
+list1593_combined_node <- getMRCA(tree, list1593_combined)
+
+ggtree(tree, layout="circular") + 
+  geom_hilight(node=list1593_0_node, fill="lightskyblue")+
+  geom_hilight(node=list1593_1_node, fill="lightpink")+
+  geom_point2(aes(subset=(node==list1593_combined_node)), shape=21, size=18, fill='red')
+
+
+#### node 1599
+list1599_0 <- as.character(as.vector(table[37,]))
+list1599_0 <- list1599_0[nzchar(list1599_0)]
+list1599_0_node <- getMRCA(tree, list1599_0)
+
+list1599_1 <- as.character(as.vector(table[38,]))
+list1599_1 <- list1599_1[nzchar(list1599_1)]
+list1599_1_node <- getMRCA(tree, list1599_1)
+
+list1599_combined <- as.character(as.vector(table[39,]))
+list1599_combined <- list1599_combined[nzchar(list1599_combined)]
+list1599_combined_node <- getMRCA(tree, list1599_combined)
+
+ggtree(tree, layout="circular") + 
+  geom_hilight(node=list1599_0_node, fill="lightskyblue")+
+  geom_hilight(node=list1599_1_node, fill="lightpink")+
+  geom_point2(aes(subset=(node==list1599_combined_node)), shape=21, size=18, fill='red')
 
 
 
+ggtree(tree, layout="circular") + 
+  geom_point2(aes(subset=(node %in% c(list21_combined_node,
+                                      list3_combined_node,
+                                      list5_combined_node,
+                                      list17_combined_node,
+                                      list22_combined_node,
+                                      list25_combined_node,
+                                      list28_combined_node,
+                                      list42_combined_node, 
+                                      list43_combined_node,
+                                      list1393_combined_node, 
+                                      list1585_combined_node, 
+                                      list1593_combined_node, 
+                                      list1599_combined_node))), 
+              shape=21, size=18, fill='red')
