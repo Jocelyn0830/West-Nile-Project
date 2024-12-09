@@ -2,7 +2,7 @@
 # coding: utf-8
 
 """
-@Author: All code except the function fastaToDict() in this file was written by Yang Duan
+@Author: All code (excluding the function fastaToDict()) in this file was written by Yang Duan
 @Author: fastaToDict() is a utility function written by Jocelyn Wang
 """
 
